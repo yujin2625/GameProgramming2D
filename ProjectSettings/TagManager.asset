@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Arrow
+  - Flag
+  - Cloud
+  - Canvas
   layers:
   - Default
   - TransparentFX
